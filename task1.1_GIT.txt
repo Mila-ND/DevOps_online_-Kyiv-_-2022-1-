@@ -1,0 +1,12 @@
+d577203 (HEAD -> main, origin/main, origin/HEAD, styles, develop) HEAD@{0}: merge develop: Fast-forward
+abdd5a2 (images) HEAD@{1}: checkout: moving from develop to main
+d577203 (HEAD -> main, origin/main, origin/HEAD, styles, develop) HEAD@{2}: merge styles: Fast-forward
+d5cdd64 HEAD@{3}: checkout: moving from styles to develop
+d577203 (HEAD -> main, origin/main, origin/HEAD, styles, develop) HEAD@{4}: commit: gjgjg
+d5cdd64 HEAD@{5}: commit: .
+abdd5a2 (images) HEAD@{6}: checkout: moving from main to styles
+abdd5a2 (images) HEAD@{7}: checkout: moving from images to main
+abdd5a2 (images) HEAD@{8}: checkout: moving from main to images
+abdd5a2 (images) HEAD@{9}: checkout: moving from images to main
+abdd5a2 (images) HEAD@{10}: checkout: moving from main to images
+abdd5a2 (images) HEAD@{11}: clone: from https://github.com/Mila-ND/DevOps_online_-Kyiv-_-2022-1-.git
