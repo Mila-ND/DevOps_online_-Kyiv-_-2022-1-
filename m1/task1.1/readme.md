@@ -8,3 +8,9 @@ git add .
 git commit -m "added readme.md file"
 git push
 
+
+
+
+What is DevOps
+
+DevOps is the bridge that provides connection between programmers and project. It provides constant and reliable updates of product with the help of different tools used for testing, building, implementing new versions of application.
