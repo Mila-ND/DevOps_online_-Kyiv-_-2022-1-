@@ -8,9 +8,21 @@ git add .
 git commit -m "added readme.md file"
 git push
 
+I have learned how to:
+
+-create branches
+
+-switch between branches
+
+-merge branches
+
+-commit changes
+
+-push commits to remote repository
+
+-solve merging conflicts
 
 
-
-What is DevOps
+WHAT IS DEVOPS
 
 DevOps is the bridge that provides connection between programmers and project. It provides constant and reliable updates of product with the help of different tools used for testing, building, implementing new versions of application.
